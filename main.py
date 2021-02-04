@@ -6,4 +6,3 @@ pygame.init()
 screen = pygame.display.set_mode((800))
 
 # test 0100
-# hak.abk.
