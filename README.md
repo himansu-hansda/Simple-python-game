@@ -1,2 +1,3 @@
 # Simple-python-game
-#Here this is for practicing 
+#Practice code is clearly explain how every step has been created
+#Added square
