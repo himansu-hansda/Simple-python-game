@@ -1,3 +1,4 @@
+#This is the main.py file
 import pygame
 
 #initialize the pygame
